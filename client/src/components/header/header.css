@@ -1,0 +1,64 @@
+
+.banner {
+    color: #fdfdfd;
+    padding: 0 100px;
+    width: 50%
+}
+
+.banner-title {
+    font-size: 100px;
+    margin: 0;
+}
+
+.banner-text {
+    font-size: 30px;
+    font-weight: 100;
+}
+
+.social-media-icon {
+    color: #fdfdfd;
+    size: 30px;
+    margin: 10px
+}
+
+
+.social-media-icon:hover {
+    color: #b6e476;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+/* screenwidth less than 1024px
+--------------------------------------------------------------------- */
+@media only screen and (max-width: 1024px) {
+
+    /* header styles
+   ------------------------------------------------------------------ */
+
+    .banner-text {
+        font-size: 25px;
+    }
+
+}
+
+/* screenwidth less than 900px
+--------------------------------------------------------------------- */
+@media only screen and (max-width: 900px) {
+
+    /* header styles
+   ------------------------------------------------------------------ */
+    .banner {
+        padding: 0 40px;
+        width: 70%
+    }
+
+    .banner-title {
+        font-size: 40px;
+    }
+
+    .banner-text {
+        font-size: 20px;
+    }
+}

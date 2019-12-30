@@ -1,0 +1,13 @@
+{"aboutMe": "I started my journey as a developer 5 years ago. I was trained and worked in the intelligence forces unit of 8200 in the IDF surrounded by brilliant and creative minds. I got exposed to many different technologies and frameworks. The amazing part about my job was that I got to take a part in all the developing process: from UX research, database structure design all the way to writing the code. I love each aspect of it and eager to keep learning and creating. ",
+"jobs": [{"datesString": "Jan 2015 - Mar 2017",
+"title": "Software & Web Developer","location": "8200, IDF","bulletPoints":["Design, development and support software and frameworks",
+"Database modelling and design",
+"Server side development with RESTFUL API in python using SQLAlqemy, Django, Flusk etc.",
+"UX research and design.",
+"Client side development using different frameworks: Angulr, React and more.",
+"The websites I design and develop are user-friendly, effective, and appealing in the frontend as well as fluent in the backend."]},
+{"datesString": "Jan 2015 - Mar 2017",
+"title": "Operations Analyst","location": "8200, IDF","bulletPoints":["Online monitoring of systems and network data (information security)",
+"Development of tools for analysis and monitoring of sensitive IP data",
+"Wide knowledge of network protocols and structures.",
+"Most of the work I did in this job is highly classified so I can’t detail farther than this."]}]}
